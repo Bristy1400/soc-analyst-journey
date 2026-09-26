@@ -1,2 +1,3 @@
 # soc-analyst-journey
-My hands-on SOC Analyst learning journey, labs, notes, detections, and cybersecurity projects.
+
+My hands-on SOC analyst learning journey, labs, notes, detections, and cybersecurity projects.
